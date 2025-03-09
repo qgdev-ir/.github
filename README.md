@@ -1,1 +1,1 @@
-# .github
+# Qoqnus Group Developers
