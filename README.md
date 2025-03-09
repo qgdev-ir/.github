@@ -1,1 +1,0 @@
-# Qoqnus Group Developers
